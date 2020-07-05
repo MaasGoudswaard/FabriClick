@@ -2,6 +2,7 @@
 Interweaving Pushbuttons into Fabric Using 3D Printing and Digital Embroidery, this is the repository from the DIS2020 Pictorial. It provides the files to fabricate the FabriClick as well as the detailed instructions. 
 
 Pictorial: https://doi.org/10.1145/3357236.3395569
+
 You can also watch the video: https://www.youtube.com/watch?v=m9yXMVoc-N0&feature=youtu.be
 
 # Fabricating the FabriClick
