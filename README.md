@@ -50,7 +50,7 @@ All files referenced below can be found in the repository files.
 5. As the print proceeds, use it as a guide to adjust the positioning of the baseplate to align your two (embroidery AND 3D printing) workspaces. Adjust the offsets of the printhead in the slicer until you reach the right, accurate alignment. You may also adjust the baseplate to achieve alignment, but we recommend doing as much of this as you can digitally for best practice.
 6. Once the 3D printed cross lines up directly over the embroidered square pattern, you have successfully calibrated the baseplate!
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Calibration.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Calibration.JPG?raw=true)
 
 ## Fabricating the buttons
 Once the baseplate is properly installed, you can begin making your FabriClick!
@@ -74,7 +74,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.JPG?raw=true)
 
 ### Combine the button and sensing layers
 1. Gently remove the embroidery frame from the digital embroidery machine.
