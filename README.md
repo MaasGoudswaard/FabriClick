@@ -1,9 +1,12 @@
 # FabriClick: Interweaving Pushbuttons into Fabric Using 3D Printing and Digital Embroidery
 Presenting a new way to seamlessly integrate tactile pushbuttons into fabrics to enable eyes-free inputs on soft wearables!  
 This is the repository from the DIS2020 Pictorial. Here, you can find the files to fabricate your own FabriClick (with detailed instructions below!)
+
 Pictorial: https://doi.org/10.1145/3357236.3395569
 
 You can also watch the video: https://www.youtube.com/watch?v=m9yXMVoc-N0&feature=youtu.be
+
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/FabriClick.JPG?raw=true)
 
 # Fabricating the FabriClick
 All files referenced below can be found in the repository files.
@@ -28,8 +31,10 @@ All files referenced below can be found in the repository files.
 
 ## Assembly of the frame
 1. Prepare the parts by laser cutting the “Frame design V3 drawing.DXF” design from 8mm thick acrylic.
-2. Assemble the cut pieces as illustrated in the pictorial. The baseplate can be screwed together using M4 bolts.
+2. Assemble the cut pieces as illustrated in the pictorial, and the figure below. The baseplate can be screwed together using M4 bolts.
 3. Remove the frame connectors from the 180mm x 130mm embroidery frame, and attach them to the laser cut embroidery frame using M3 bolts. You may need to slightly drill out the holes to achieve a tight fit.
+
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Frame System.png?raw=true)
 
 ## Calibration
 ### Embroidery Machine
@@ -66,6 +71,8 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - Next, stitch the GREEN ISOLATION stitches using a non-conductive thread. They need to be stitched the horizontal red rows.
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
+
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Matrix Circuitry.png?raw=true)
 
 ### Combine the button and sensing layers
 1. Gently remove the embroidery frame from the digital embroidery machine.
