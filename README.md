@@ -74,7 +74,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.jpg?raw=true)
 
 ### Combine the button and sensing layers
 1. Gently remove the embroidery frame from the digital embroidery machine.
@@ -91,5 +91,5 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
 
 ## Have Fun!
 By now, we hope you would have had the sufficient explanation and files to make your own FabriClick. It might take some tweaking and experimenting at first, but that’s just part of the fun. We hope you will be inspired to experiment, explore, and continue to make cool new things with our designs and frames! Finally, if you have any questions, please don’t hesitate to ask! Email us, and we would love to help (email us at: m.p.goudswaard@student.tue.nl and abela@sfu.ca)
- 
+
 
