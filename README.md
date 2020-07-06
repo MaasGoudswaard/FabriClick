@@ -6,7 +6,7 @@ Pictorial: https://doi.org/10.1145/3357236.3395569
 
 You can also watch the video: https://www.youtube.com/watch?v=m9yXMVoc-N0&feature=youtu.be
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/pictures/FabriClick.JPG?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Pictures/FabriClick.JPG?raw=true)
 
 # Fabricating the FabriClick
 All files referenced below can be found in the repository files.
