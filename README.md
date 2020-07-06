@@ -91,5 +91,5 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
 
 ## Have Fun!
 By now, we hope you would have had the sufficient explanation and files to make your own FabriClick. It might take some tweaking and experimenting at first, but that’s just part of the fun. We hope you will be inspired to experiment, explore, and continue to make cool new things with our designs and frames! Finally, if you have any questions, please don’t hesitate to ask! Email us, and we would love to help (email us at: m.p.goudswaard@student.tue.nl and abela@sfu.ca)
-
+ 
 
