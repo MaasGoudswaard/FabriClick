@@ -69,7 +69,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - You can refer to the “V3 embroidery circuit.pes” file (compatible with BROTHER PE software) for additional reference.
 3. Once the coloured stitches have been assigned their appropriate settings, tightly stretch a lycra fabric onto the laser cut embroidery frame using bulldog clips. Aim to have as much tension as possible in the fabric while maintaining an even stretch.
 4. Begin embroidering the patterns by colour, following this precise order:
-  - First, stitch the HORIZONTAL RED rows using the conductive thread in the bobbin.
+  - First, stitch the HORIZONTAL RED rows using the conductive thread in the bobbin, in the illustration below blue.
   - Next, stitch the GREEN ISOLATION stitches using a non-conductive thread. They need to be stitched the horizontal red rows.
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
