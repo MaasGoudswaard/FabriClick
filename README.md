@@ -50,7 +50,7 @@ All files referenced below can be found in the repository files.
 5. As the print proceeds, use it as a guide to adjust the positioning of the baseplate to align your two (embroidery AND 3D printing) workspaces. Adjust the offsets of the printhead in the slicer until you reach the right, accurate alignment. You may also adjust the baseplate to achieve alignment, but we recommend doing as much of this as you can digitally for best practice.
 6. Once the 3D printed cross lines up directly over the embroidered square pattern, you have successfully calibrated the baseplate!
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Calibration.JPG?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Calibration.jpg?raw=true)
 
 ## Fabricating the buttons
 Once the baseplate is properly installed, you can begin making your FabriClick!
@@ -74,7 +74,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.JPG?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/MatrixCircuitry.png?raw=true)
 
 ### Combine the button and sensing layers
 1. Gently remove the embroidery frame from the digital embroidery machine.
@@ -87,7 +87,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
 1. Finally, we need to connect the FabriClick to a processor to begin using it! To interface the FabriClick, carefully follow the horizontal row and vertical column stitches to their loosened end points. Once loose, attach these tracks to conductive coated copper wires using small crimps. Make sure to burn the ends of the copper wires to remove their insulation coating, or they won’t connect!
 2. Once the copper wires are connected, these tracks can be wired to a processor using the same wiring principles as any standard button matrix. You can attach connectors to the copper wires for easier plug-and-play wiring, or solder them directly. For more details on wiring examples, check out the detailed schematic provided in the pictorial!
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/ConnectingFabriClick.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/ConnectingFabriClick.JPG?raw=true)
 
 ## Have Fun!
 By now, we hope you would have had the sufficient explanation and files to make your own FabriClick. It might take some tweaking and experimenting at first, but that’s just part of the fun. We hope you will be inspired to experiment, explore, and continue to make cool new things with our designs and frames! Finally, if you have any questions, please don’t hesitate to ask! Email us, and we would love to help (email us at: m.p.goudswaard@student.tue.nl and abela@sfu.ca)
