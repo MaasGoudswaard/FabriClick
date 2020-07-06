@@ -34,7 +34,7 @@ All files referenced below can be found in the repository files.
 2. Assemble the cut pieces as illustrated in the pictorial, and the figure below. The baseplate can be screwed together using M4 bolts.
 3. Remove the frame connectors from the 180mm x 130mm embroidery frame, and attach them to the laser cut embroidery frame using M3 bolts. You may need to slightly drill out the holes to achieve a tight fit.
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Frame System.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Frame_System.png?raw=true)
 
 ## Calibration
 ### Embroidery Machine
@@ -72,7 +72,7 @@ Once the baseplate is properly installed, you can begin making your FabriClick!
   - Finally, stitch the RED VERTICAL columns. Don’t forget to switch the conductive thread back into the bobbin!
 5. Do not turn off or cancel this current embroidery pattern! We will be coming back to it in a moment.
 
-![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Matrix Circuitry.png?raw=true)
+![alt text](https://github.com/MaasGoudswaard/FabriClick/blob/master/Matrix_Circuitry.png?raw=true)
 
 ### Combine the button and sensing layers
 1. Gently remove the embroidery frame from the digital embroidery machine.
