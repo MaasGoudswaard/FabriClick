@@ -2,6 +2,7 @@
 Presenting a new way to seamlessly integrate tactile pushbuttons into fabrics to enable eyes-free inputs on soft wearables!  
 This is the repository from the DIS2020 Pictorial. Here, you can find the files to fabricate your own FabriClick (with detailed instructions below!)
 Pictorial: https://doi.org/10.1145/3357236.3395569
+
 You can also watch the video: https://www.youtube.com/watch?v=m9yXMVoc-N0&feature=youtu.be
 
 # Fabricating the FabriClick
